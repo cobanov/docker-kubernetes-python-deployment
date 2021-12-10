@@ -3,5 +3,6 @@ fastapi
 numpy
 joblib
 scikit-learn
-pandas
 pydantic
+pandas
+
